@@ -56,16 +56,16 @@
       <![CDATA[element  is present:]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-06-03T18:18:46 IST" name="Default suite" finished-at="2023-06-03T18:19:30 IST" duration-ms="44059">
+  <suite started-at="2023-06-03T18:48:51 IST" name="Suite" finished-at="2023-06-03T18:49:33 IST" duration-ms="42008">
     <groups>
     </groups>
-    <test started-at="2023-06-03T18:18:46 IST" name="Default test" finished-at="2023-06-03T18:19:30 IST" duration-ms="44059">
+    <test started-at="2023-06-03T18:48:51 IST" name="Test" finished-at="2023-06-03T18:49:33 IST" duration-ms="42008">
       <class name="Assignment_Test.Assignment_MainTest">
-        <test-method is-config="true" signature="precondition()[pri:0, instance:Assignment_Test.Assignment_MainTest@12468a38]" started-at="2023-06-03T18:18:40 IST" name="precondition" finished-at="2023-06-03T18:18:46 IST" duration-ms="5842" status="PASS">
+        <test-method is-config="true" signature="precondition()[pri:0, instance:Assignment_Test.Assignment_MainTest@12468a38]" started-at="2023-06-03T18:48:45 IST" name="precondition" finished-at="2023-06-03T18:48:51 IST" duration-ms="6274" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- precondition -->
-        <test-method is-config="true" signature="beforetest()[pri:0, instance:Assignment_Test.Assignment_MainTest@12468a38]" started-at="2023-06-03T18:18:46 IST" name="beforetest" finished-at="2023-06-03T18:18:57 IST" duration-ms="11189" status="PASS">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:Assignment_Test.Assignment_MainTest@12468a38]" started-at="2023-06-03T18:48:51 IST" name="beforetest" finished-at="2023-06-03T18:49:02 IST" duration-ms="10313" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[element  is present:]]>
@@ -84,7 +84,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- beforetest -->
-        <test-method signature="test()[pri:0, instance:Assignment_Test.Assignment_MainTest@12468a38]" started-at="2023-06-03T18:18:57 IST" name="test" finished-at="2023-06-03T18:19:04 IST" duration-ms="7550" status="PASS">
+        <test-method signature="test()[pri:0, instance:Assignment_Test.Assignment_MainTest@12468a38]" started-at="2023-06-03T18:49:02 IST" name="test" finished-at="2023-06-03T18:49:09 IST" duration-ms="7343" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[title is matching:]]>
@@ -97,7 +97,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method is-config="true" signature="aftermethod()[pri:0, instance:Assignment_Test.Assignment_MainTest@12468a38]" started-at="2023-06-03T18:19:04 IST" name="aftermethod" finished-at="2023-06-03T18:19:30 IST" duration-ms="25296" status="PASS">
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:Assignment_Test.Assignment_MainTest@12468a38]" started-at="2023-06-03T18:49:09 IST" name="aftermethod" finished-at="2023-06-03T18:49:33 IST" duration-ms="24330" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[element  is present:]]>
@@ -131,11 +131,11 @@
             </line>
           </reporter-output>
         </test-method> <!-- aftermethod -->
-        <test-method is-config="true" signature="postcondition()[pri:0, instance:Assignment_Test.Assignment_MainTest@12468a38]" started-at="2023-06-03T18:19:30 IST" name="postcondition" finished-at="2023-06-03T18:19:30 IST" duration-ms="113" status="PASS">
+        <test-method is-config="true" signature="postcondition()[pri:0, instance:Assignment_Test.Assignment_MainTest@12468a38]" started-at="2023-06-03T18:49:33 IST" name="postcondition" finished-at="2023-06-03T18:49:33 IST" duration-ms="68" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postcondition -->
       </class> <!-- Assignment_Test.Assignment_MainTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

@@ -5,8 +5,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import com.github.dockerjava.api.model.Driver;
-
 import Assignment_general.BasePage;
 import Assignment_general.generalUtils;
 
